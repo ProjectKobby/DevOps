@@ -1,1 +1,3 @@
 Merging to master
+Creating file for merge conflict in Feature branch
+
